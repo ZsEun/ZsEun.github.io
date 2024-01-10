@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-中文
+心智有待成长
+身体有待坚强
