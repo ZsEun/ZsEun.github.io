@@ -6,7 +6,7 @@ categories: Culture
 ---
 ![paint](/image/paint1.jpg)
 
-鸟居清信
+鳥居清信
 
 1720-25
 
@@ -42,7 +42,7 @@ Smart Museum of Art, Chicago, IL
 
 吾妻桥下之凉船
 
-鸟居清长
+鳥居清長
 
 1785
 
@@ -153,4 +153,41 @@ Metropolitan Museum of Art, New York, NY
 葛饰北斋以独特的“三分法构图”和透视法相结合，形成以富士山为中心的向心式构图。这幅经典是传统美术和西方技法的集大成之作，非凡的线描和构图使之成为日本美术的标志性作品。
 
 
+![paint](/image/paint14.jpg)
 
+東海道五十三次之内　箱根　湖水図
+
+歌川広重
+
+1833-34
+
+Metropolitan Museum of Art, New York, NY
+
+歌川广重在 1833年(天保四年)发表的《东海道五十三次》系列，是他作为浮世绘风景画大师的成名作。他于天保三年(1832)八月随幕府官员上京，向皇室进贡骏马和战刀。被称为“八朔之御马献上”的仪式始于1610年(庆长十五年)，对于幕府来说是仅次于正月新年的重要仪式，歌川广重受命随同往返并作画记录。从时间上看，歌川广重往返东海道所经历的只是夏秋两季，因此为了表现一年中的四季景色，他也参考了当时出版的许多带插图的旅游资料，如《东海道名所图绘》等，移植了其中的一些景物和构图，创造性地描绘了沿途风情。通过提炼和概括，并借鉴西方绘画的表现手法，浓墨重彩地渲染了旅行的气氛。魅力无限的风雨气象、四季景色，以及悠悠行旅的写照，正是日本传统和歌中常有的意境。
+
+![paint](/image/paint12.jpg)
+
+平清盛怪異を見る図
+
+歌川広重
+
+1843
+
+Metropolitan Museum of Art, New York, NY
+
+The hubris embodied in the figure of Taira no Kiyomori (1118–1181) looms large in many medieval warrior tales. The death, conflict, and fiery destruction caused by his ambitions in the Hōgen and Heiji civil wars are ultimately resolved by his own horrifying death by fever during the Genpei War of 1180–85. Hiroshige depicted him as haunted, but uncowed, by his past deeds, surrounded by eerie skull forms in a snowy garden.
+
+![paint](/image/paint13.jpg)
+
+大はしあたけの夕立
+
+歌川広重
+
+1857
+
+Metropolitan Museum of Art, New York, NY
+
+《大桥暴雨》称为新大桥，建于1693年(元禄六年)，连接滨町的矢之仓和深川谷仓。这两个带有“仓”字的地方分别是幕府的粮仓所在地，也称“谷之御藏”。画面表现的是夏日傍晚的骤雨，大桥上的路人行色匆匆，橙黄的桥面与紫霭的远景形成色彩上的对比。如织的密雨中，水面上一叶木筏悠然而下。桥与河岸巧妙地将画面斜着横切成三角形构图，折射出阵雨中人们心中的不安。随着近年来复刻研究的进展发现，画面上两种不同角度的雨线是用两块雕版叠加套印而成的。这幅作品也因凡·高的临摹之作《雨中大桥》而广为人知。
+
+由此可见,浮世绘虽在西方绘画影响下进一步发展与完善起来，
+但歌川广重的作品仍然是以日本人的视角看到的日本式风景，他的作品令人感受到日本民族细腻审美意趣的同时，还体验到淡淡的乡愁情绪，流露出日本的本土文化心理，由此他被称为“乡愁广重”
