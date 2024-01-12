@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "《哈利波特》献礼二十大"
+title:  "哈利波特献礼二十大"
 date:   2022-10-23
 categories: Politics
 ---
