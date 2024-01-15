@@ -59,6 +59,7 @@ Apr 16, 2023
 
 妮姐跟我一样，都是六年练习生\
 May 25, 2023
+
 ![pic](/image/graduation3.jpg)
 
 离谱，我在搜索栏打twi，本意是twitter，结果给我联想出twice\
