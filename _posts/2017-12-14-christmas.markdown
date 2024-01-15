@@ -12,17 +12,20 @@ comments: true
 第七部，赫敏和哈利回到戈德里克山谷，透过窗户看到每家房间里的彩灯，在隐形衣下面小声说，“哈利，我想今天是平安夜”
 
 
+
+
+
 <div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
+    
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = https://zseun.github.io/life/2017/12/14/christmas.html;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = christmas; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    */
+    
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://keepsampling.disqus.com/embed.js';
