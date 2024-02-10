@@ -3,6 +3,7 @@ layout: post
 title:  "浪游记快Archive"
 date:   2024-02-08
 categories: Life
+published: false
 ---
 
 浪游记快是一个在我旅行期间和同行的朋友日更的播客节目，到目前为止更新了五季，分别是去纽约、华盛顿DC、以及往返密苏里和湾区的三次。虽然重新听有的时候会脚趾抠地，不过我自己觉得整体还挺不错的。之前都零散更新在公众号上，现在把它们汇总起来放在这里。
@@ -223,5 +224,4 @@ categories: Life
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cvcRfHNKaT8rtnoeBimTQi-PTsSxANE&ehbc=2E312F" style="width: 100%; height: 500px; border: none;"></iframe>
 
-<iframe style="width: 100%; height=500px;" src="https://www.youtube.com/embed/9IiTdSnmS7E?si=sMWtWvYaULsSge2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
