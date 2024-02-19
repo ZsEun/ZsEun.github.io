@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "浪游记快Archive"
-date:   2024-02-08
+title:  "浪游记快合集"
+date:   2024-02-18
 categories: Life
-published: false
 ---
 
-浪游记快是一个在我旅行期间和同行的朋友日更的播客节目，到目前为止更新了五季，分别是去纽约、华盛顿DC、以及往返密苏里和湾区的三次。虽然重新听有的时候会脚趾抠地，不过我自己觉得整体还挺不错的。之前都零散更新在公众号上，现在把它们汇总起来放在这里。
+浪游记快是一个在我旅行期间和同行朋友日更的播客节目，到目前为止更新了五季，分别是去纽约、华盛顿DC、以及往返密苏里和湾区的三次。虽然重新听有的时候会尴尬到脚趾抠地，不过我自己觉得整体还挺不错的。之前都零散更新在公众号上，现在把它们汇总起来放在这里。
 
 <div style="height: 1.5em; width: 100%;"></div>
 
@@ -31,8 +30,8 @@ published: false
 	
 	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593456&idx=1&sn=ecc7bd62e4c591f5333443adda75c7d8&chksm=8177146eb6009d781f3a73f21eec3eabf1cb55dc1e8643d6a79c3e9216be048e759651129f26&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E2</a></h3>
     <p>大都会艺术博物馆 The Metropolitan Museum of Art</p>
-    <p>古根汉美术馆 Solomon R. Guggenheim Museum</p>
-	<p>麦迪逊广场 Madison Square Park</p>
+    <p>古根海姆美术馆 Solomon R. Guggenheim Museum</p>
+	<p>麦迪逊广场公园 Madison Square Park</p>
 	<p>Jua</p>
 	<p>哈利波特商店 Harry Potter New York</p>
 	
@@ -45,7 +44,7 @@ published: false
 	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593494&idx=1&sn=e920e3c612224acacba791d50963d517&chksm=81771488b6009d9e6b84f0bd5b0f6797d9d706d8a627db6e573e2a9fbedc2f1dcca8ac58782b&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E4</a></h3>
 
 	<p>中央车站 Grand Central Terminal</p>
-	<p>时报广场 Times Square</p>
+	<p>时代广场 Times Square</p>
 	<p>帝国大厦 Empire State Building</p>
 	<p>韩国城 Koreatown</p>
 	<p>摩根图书馆与博物馆 The Morgan Library & Museum</p>
@@ -177,40 +176,59 @@ published: false
 	
 	<p>2022年8月</p>
 	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593669&idx=1&sn=1394accc67c5e244f5fda53595763665&chksm=8177155bb6009c4ded780b7f134bff63966b0cb09441ece785be5cb4926954719caccc2fa6eb&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E1</a></h3>
-	<p>Oklahoma City</p>
-	<p>National Cowboy & Western Heritage Museum</p>
-
+	<h3><a href="https://mp.weixin.qq.com/s/k9ssL_ZaHV4vtzVzfeMo2Q" target="_blank" rel="noopener noreferrer">E0</a></h3>
+	<p>优胜美地国家公园 Yosemite National Park </p>
 	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593680&idx=1&sn=f5e002a1c1480a99e7070110058acfbe&chksm=8177154eb6009c58fb3c88cb706b7fe8984d66ee53d52cd88d1204972106914d8800d9bc401a&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E2</a></h3>
-    <p>Albuquerque</p>
-	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593693&idx=1&sn=694b6e85ee87248414aa0993f96720c5&chksm=81771543b6009c557f4dc89b4202c20f8ceac5f6de6ee478bb67c4172887b535f8d209d9eca1&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E3</a></h3>
-	<p>El Malpais National Monument</p>
-	<p>石化森林国家公园 Petrified Forest National Park</p>
-	<p>Meteor Crater Natural Landmark</p>
-	<p>Flagstaff</p>
-	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593710&idx=1&sn=e2a4000189364e9aa5ec0903b4d1191b&chksm=81771570b6009c66ddc5ff2f9e2f7bb73bb0042d8ae4c35cd47b3ad58b6ae99092d83138e4a2&scene=178&cur_album_id=2295602999744053248#rd">E4</a></h3>
-
-	<p>大峡谷国家公园 Grand Canyon National Park</p>
-	<p>羚羊谷 Antelope Canyon</p>
-	<p>马蹄湾 Horseshoe Bend</p>
-	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593731&idx=1&sn=238a962e25e1dfd01a91dcc9ed3491e8&chksm=8177159db6009c8bb3ab12e6c8e44b0351fde3c3833424fec63d061f9d20782c5a1d8bcb1ad5&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E5</a></h3>
-	
-	<p>锡安国家公园 Zion National Park</p>
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593874&idx=1&sn=0a63d069cf915304b0b2705d9cee35ad&chksm=8177160cb6009f1ace5b6d24f14085739be0e55d5f427d1c5ee25dffff72c268bace031f9125&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E1</a></h3>
 	<p>Las Vegas</p>
+	<p>布莱斯峡谷国家公园 Bryce Canyon National Park</p>
+
+	
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593901&idx=1&sn=f0f06c7903464c3e7d378c11a6f887c9&chksm=81771633b6009f250dc3c004dc88bbcf0b1ba24bf8924e53056e26bf4726b1362aee231e0a7a&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E2</a></h3>
+    <p>拱门国家公园 Arches National Park</p>
+	
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593903&idx=1&sn=4841e78ee3549d32c859460458b295b7&chksm=81771631b6009f27fd363ff42a936761af5dba83b3fa3adc8a66695fe1aeb2631fb774ec51fe&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E3</a></h3>
+	<p>落基山国家公园 Rocky Mountain National Park</p>
 	
 	
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <!-- Content for the second column goes here -->
-    <img src="/image/travel_5.jpg" alt="Alt text" style="max-width: 100%; height: auto;">
+    <img src="/image/travel_8.jpg" alt="Alt text" style="max-width: 100%; height: auto;">
 	
-	<div style="height: 3em; width: 100%;"></div>
+  </div>
+</div>
+
+<div style="height: 1.5em; width: 100%;"></div>
+
+---
+
+<div style="height: 1.5em; width: 100%;"></div>
+
+<h2>S4 密苏里到湾区</h2>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
 	
-	<img src="/image/travel_6.jpg" alt="Alt text" style="max-width: 100%; height: auto;">
+	<p>2023年7月</p>
+	
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593988&idx=1&sn=d22e1a49330c411d5e7045666daf3c3b&chksm=8177169ab6009f8c2eb8f69db5d52c80d615f5d7393d43f1abbde93ce77c634717db5e2b73d1&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E1</a></h3>
+	<p>纳尔逊美术馆 The Nelson-Atkins Museum of Art</p>
+	
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657594009&idx=1&sn=db66c42c5434540a9cd3c5bb3b077472&chksm=81771687b6009f91adb4b9688a7aee6b14ef6c60ae71a8dc7fd5e59fa813e20196676b23ebbf&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E2</a></h3>
+    <p>魔鬼塔 Devils Tower National Monument</p>
+	<p>黄石国家公园 Yellowstone National Park</p>
+	
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657594032&idx=1&sn=1680a6fb8ba069c71dd122a7de3621b6&chksm=817716aeb6009fb8b931c539cdfbe38866cae2a8baf266dc6f41fe20149988340a9d2a175077&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E3</a></h3>
+	<p>黄石国家公园 Yellowstone National Park</p>
+	<p>大提顿国家公园 Grand Teton National Park</p>
+	
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/travel_7.jpg" alt="Alt text" style="max-width: 100%; height: auto;">
+	
   </div>
 </div>
 
@@ -221,6 +239,7 @@ published: false
 
 <div style="height: 1.5em; width: 100%;"></div>
 
+最后是我目前在美国去过的地方：
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cvcRfHNKaT8rtnoeBimTQi-PTsSxANE&ehbc=2E312F" style="width: 100%; height: 500px; border: none;"></iframe>
 
