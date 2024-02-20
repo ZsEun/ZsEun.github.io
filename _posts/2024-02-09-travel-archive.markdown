@@ -7,6 +7,8 @@ categories: Life
 
 浪游记快是一个在我旅行期间和同行朋友日更的播客节目，到目前为止更新了五季，分别是去纽约、华盛顿DC、以及往返密苏里和湾区的三次。虽然重新听有的时候会尴尬到脚趾抠地，不过我自己觉得整体还挺不错的。之前都零散更新在公众号上，现在把它们汇总起来放在这里。
 
+用电脑浏览效果最佳，不过用手机看也不是不可以。
+
 <div style="height: 1.5em; width: 100%;"></div>
 
 ---
@@ -89,7 +91,7 @@ categories: Life
 
 	<p>2022年4月</p>
 	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593441&idx=1&sn=003c32d6ad0e5807650ebc6adfe6d104&chksm=8177147fb6009d695ffb030bb7eeae541cfa1453ed31d0f1250a801006e7fdb8521e13676f4e&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E1</a></h3>
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593611&idx=1&sn=bbed1a8c2df48ca7844a62b9c8a98bc8&chksm=81771515b6009c03191bc5c9f728143c7d366f5d63a6cd751b3e9e723c9660339c6959e9892a&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E1</a></h3>
 	<p>国会山 Capitol Hill</p>
 	<p>国家美术馆 National Gallery of Art</p>
 	<p>林肯纪念堂 Lincoln Memorial</p>
@@ -139,7 +141,7 @@ categories: Life
 	<p>Meteor Crater Natural Landmark</p>
 	<p>Flagstaff</p>
 	
-	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593710&idx=1&sn=e2a4000189364e9aa5ec0903b4d1191b&chksm=81771570b6009c66ddc5ff2f9e2f7bb73bb0042d8ae4c35cd47b3ad58b6ae99092d83138e4a2&scene=178&cur_album_id=2295602999744053248#rd">E4</a></h3>
+	<h3><a href="https://mp.weixin.qq.com/s?__biz=MzAwMDc1NzEwNQ==&mid=2657593710&idx=1&sn=e2a4000189364e9aa5ec0903b4d1191b&chksm=81771570b6009c66ddc5ff2f9e2f7bb73bb0042d8ae4c35cd47b3ad58b6ae99092d83138e4a2&scene=178&cur_album_id=2295602999744053248#rd" target="_blank" rel="noopener noreferrer">E4</a></h3>
 
 	<p>大峡谷国家公园 Grand Canyon National Park</p>
 	<p>羚羊谷 Antelope Canyon</p>
@@ -205,7 +207,7 @@ categories: Life
 
 <div style="height: 1.5em; width: 100%;"></div>
 
-<h2>S4 密苏里到湾区</h2>
+<h2>S5 密苏里到湾区</h2>
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -239,7 +241,7 @@ categories: Life
 
 <div style="height: 1.5em; width: 100%;"></div>
 
-最后是我目前在美国去过的地方：
+最后是我目前在美国去过的地方，一个google map，国内可能显示不出来，不过截图也放在公众号推送里了。
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cvcRfHNKaT8rtnoeBimTQi-PTsSxANE&ehbc=2E312F" style="width: 100%; height: 500px; border: none;"></iframe>
 
