@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "手机桌面2024"
+date:   2024-02-23
+categories: Life
+---
+
+手机已经算是我看世界的第二双眼睛了，所以觉得定期记录一下
+
+<div style="height: 1.5em; width: 100%;"></div>
+
+---
+
+<div style="height: 1.5em; width: 100%;"></div>
+
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>第一屏放的是工作以及手机设置的软件。</p>
+	
+	<p>目前我的手机是iphone 12 mini。虽然已经比绝大部分手机的尺寸小很多了，但是右手单手拿着的时候，大拇指还是不可能轻松到达顶上两行，所以就随便放了屏幕时间的小组件占一下位置，把其他图标都挤下来。其实我也不太关系我的屏幕时间，不过其他也没什么可放的。</p>
+	
+	<p>Dock栏是我使用频次最多的软件：翻译，搜索，听歌，快速纪录。之所以讨厌马斯克但还是在用推特，是因为全平台加快速导出。</p>
+	
+	<p>因为公司屏蔽了chatGPT，所以最近经常出现的一个流程是：在电脑端chime输入问题，发给自己，在手机端chime复制，粘贴到chatGPT，得到答案之后再复制回手机端chime，在电脑端chime查看，有点麻烦。</p>
+	
+		
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/phone_1.png" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+	
+  </div>
+</div>
+
+<div style="height: 3em; width: 100%;"></div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->	
+	
+	<p>来到第二屏，放的是生活娱乐内容。</p>
+	
+	<p>还是因为手指一般触碰不到，所以最上方是三个小组件，分别是拍照，搜索和记账。面积大点可以稍微降低点触碰难度。</p>
+	
+	<p>下面的软件有些我常用，还有些并没有，比如substack和inoreader。之所以放在主屏幕，是因为我觉得与其在无聊的时候刷更无聊的内容，不如稍微读点东西。当然目前来看效果平平。</p>
+		
+	
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+	
+	<img src="/image/phone_2.png" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
+
+<div style="height: 3em; width: 100%;"></div>
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->	
+	
+	<p>所以真正要看我平常用手机都在干嘛，</p>
+	
+	<p>还是因为手指一般触碰不到，所以最上方是三个小组件，分别是拍照，搜索和记账。面积大点可以稍微降低点触碰难度。</p>
+	
+	<p>下面的软件有些我常用，还有些并没有，比如substack和inoreader。之所以放在主屏幕，是因为我觉得与其在无聊的时候刷更无聊的内容，不如稍微读点东西。当然目前来看效果平平。</p>
+		
+	
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+	
+	<img src="/image/phone_3.png" alt="Alt text" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+
+
