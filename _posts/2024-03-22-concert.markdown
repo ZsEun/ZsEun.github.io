@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一件大事！"
+title:  "Ready to be"
 date:   2024-03-22
 categories: Life
 ---
