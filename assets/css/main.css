@@ -24,3 +24,76 @@
     display: block; /* Ensure the container is a block-level element to respect margin auto */
 }
 
+.image-scroll-container {
+  width: 80vw; /* Set the width to be 100% of the viewport width */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Keep the image in a single line */
+  box-sizing: border-box; /* Make sure paddings and borders are included in the width calculation */
+  margin-left: calc(-40vw + 50%); /* Adjust if the container is not centered due to the vw unit */
+  margin-right: calc(-40vw + 50%);
+}
+
+.image-scroll-container img {
+  max-height: 70vh; /* Sets the maximum height of the image to 50% of the viewport height */
+  display: inline-block; /* Display image inline to work with white-space: nowrap; */
+  vertical-align: middle; /* Align the image vertically */
+  max-width: none; /* Prevent max-width: 100% from affecting the image width */
+}
+
+.image-center {
+  width: 80vw; /* Set the width to be 80% of the viewport width */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Keep the image in a single line */
+  box-sizing: border-box; /* Make sure paddings and borders are included in the width calculation */
+  margin-left: auto; /* Center the container by automatically adjusting left margin */
+  margin-right: auto; /* Center the container by automatically adjusting right margin */
+  display: block; /* Ensure the container is a block-level element to respect margin auto */
+}
+
+.carousel-container {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.carousel-slides {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-slides img {
+  flex: 0 0 100%;
+  max-height: 90vh;
+  object-fit: contain;
+}
+
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  font-size: 2em;
+  padding: 0.5em;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.carousel-button.prev {
+  left: 10px;
+}
+
+.carousel-button.next {
+  right: 10px;
+}
+
+.image-index {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
