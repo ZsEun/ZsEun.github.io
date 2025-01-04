@@ -3,7 +3,7 @@ layout: post
 title:  "《厌女》"
 date:   2024-11-09
 categories: Book
-comments: true
+published: false
 ---
 发现逻辑链条很重要，如果只是摘抄的话，逻辑就会破碎，很多结论就会显得突兀
 ![pic](/image/david_5.jpg)
