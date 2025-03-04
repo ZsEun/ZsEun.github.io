@@ -58,7 +58,7 @@ Anuja（《阿努贾》），在Netflix上可以看到。我最喜欢的一部�
 
 ![pic](/image/post_13.jpg)
 
-I'm Not a Robot（《我不是机器人》），纽约时报出品，最终获得了本届奥斯卡最佳真人短片，
+I'm Not a Robot（《我不是机器人》），纽约客出品，最终获得了本届奥斯卡最佳真人短片，
 可以在<a href="https://youtu.be/4VrLQXR7mKU?si=WcDopee59VyZzYji" target="_blank" rel="noopener noreferrer">youtube</a>
 或者
 <a href="https://www.bilibili.com/video/BV1JQPte2EXC/?share_source=copy_web&vd_source=dadad115af05f07840832fa5034da512" target="_blank" rel="noopener noreferrer">b站</a>
