@@ -1,0 +1,252 @@
+---
+layout: post
+title:  "一些小乐事"
+date:   2025-05-07
+categories: Life
+---
+
+在SF MoMA，我很喜欢一个以运动为主题的展，让我觉得好的当代艺术其实是更容易和我们的产生情感联结的，毕竟离日常生活更近\
+Jan 11
+
+<div class="simple-carousel" data-carousel>
+  <div class="carousel-images">
+    <img src="/image/joy_8.jpeg" class="carousel-image active" alt="Image 1">
+    <img src="/image/joy_11.jpeg" class="carousel-image" alt="Image 2">
+	<img src="/image/joy_12.jpeg" class="carousel-image" alt="Image 2">
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-button prev">&#10094;</button>
+    <div class="carousel-index">1/3</div>
+    <button class="carousel-button next">&#10095;</button>
+  </div>
+</div>
+
+小搞了一下室内装修，把收集的画一起挂上了墙。不过最终效果没有想象当中好，这些画的尺寸还是有些小，大面积的墙还是需要大面积的画才行。
+另外在厕所挂了一张我特别喜欢的浮世绘，《短冥次郎阮小五》，两个肌肉男在水下大战，很符合浴室的氛围哈哈。\
+Jan 15
+
+<div class="simple-carousel" data-carousel>
+  <div class="carousel-images">
+    <img src="/image/joy_9.jpg" class="carousel-image active" alt="Image 3">
+    <img src="/image/joy_10.jpg" class="carousel-image" alt="Image 4">
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-button prev">&#10094;</button>
+    <div class="carousel-index">1/2</div>
+    <button class="carousel-button next">&#10095;</button>
+  </div>
+</div>
+
+hiking的时候拍了这么一张，我想出一句上联“月上枯木”，ChatGPT对了一个“雪落寒枝”，deepseek对的是“风来疏竹”\
+Feb 11
+![pic](/image/joy_13.JPEG)
+
+看新一季RuPaul，其实里面选手的舞技也就那样，我觉得kpop里面随便挑一个人来都能slay全场了\
+Feb 12
+
+昨天去了三番看农历新年游行，其实不怎么样，每个方阵都是草台班子舞龙舞狮那一套。
+不过入夜之后，唐人街上到处都在放烟花，火光冲天，有种不夜城的感觉。我也买了一盒摔炮随便砸。\
+Feb 16
+
+楼下咖啡吧没什么人，小哥竟然还给我拉了个花，果然人在不忙的时候才有创造性\
+Feb 18
+
+<div class="simple-carousel" data-carousel>
+  <div class="carousel-images">
+    <img src="/image/joy_16.jpeg" class="carousel-image active" alt="Image 3">
+    <img src="/image/joy_14.jpeg" class="carousel-image" alt="Image 4">
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-button prev">&#10094;</button>
+    <div class="carousel-index">1/2</div>
+    <button class="carousel-button next">&#10095;</button>
+  </div>
+</div>
+
+回想最近几年让我很有好感的男性公众人物，我的第一反应竟然是SNL的几个男卡司，
+小马、科林之类的，之前没想到幽默对于我来说这么重要\
+Feb 21
+
+学葡萄牙语有时候会让我觉得自己又从小孩子开始重新活了一遍。比如最近学eu acho que（我认为），
+我就对我想要发表什么评论变得敏感。当我还是个小孩子的时候肯定没意识到这一点。
+我第一次对这个世界发表自己的看法是什么时候呢？\
+Feb 22
+
+跟着youtube视频做了pao de queijo，大成功，开心\
+Feb 26
+
+![pic](/image/joy_18.JPG)
+
+Flash了一个v5，本来已经很开心了，结果有人拍我的肩，我转过去是一个陌生人跟我说nice，更开心了，果然要多赞美，多传递爱\
+Feb 28
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%E4%BD%A0%E5%A7%90-hush-remix/1671106985?i=1671106995"></iframe>
+
+“别道别/像流星划过黑夜/因为我是你姐”。突然脑子里又重新响起这首，感觉这句歌词很适合徐熙媛。\
+Mar 3
+
+感觉很像梵高的杏花盛开\
+Mar 22
+![pic](/image/joy_6.JPEG)
+
+去西雅图参加了一个公司内部的会议，绝大多数presentation都是关于AI的。我很羡慕现在搞AI的人，因为站在时代的潮头，他们的努力都会被看见，跟他们聊天也会有一种意气风发的感觉。
+而我们虽然做着同样或者更困难的工作，但是无人在意。\
+Apr 2
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/look-at-the-time/1691189908"></iframe>
+
+出差的晚上随便进了一家live house，很喜欢里面一个乐团的表演，台上的乐队和台下的人群都全情投入，男生主唱把长发帅得既妩媚又自信。回来再在手机上听，也觉得现场要比录音室好太多。再搜他们的巡演，前两天在三番，今天西雅图，然后慢慢往东岸走，之后还会去欧洲。有点好奇他们这种永远在路上、需要不停宣泄自己情感的生活。\
+Apr 2
+
+<div class="simple-carousel" data-carousel>
+  <div class="carousel-images">
+    <img src="/image/joy_4.jpeg" class="carousel-image active" alt="Image 3">
+    <img src="/image/joy_5.jpeg" class="carousel-image" alt="Image 4">
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-button prev">&#10094;</button>
+    <div class="carousel-index">1/2</div>
+    <button class="carousel-button next">&#10095;</button>
+  </div>
+</div>
+
+
+之前去homedepot买了土，把植物分了盆，然后它死了\
+Apr 6
+
+
+我最近成功晋升泰国菜大厨，秘诀就是炒菜的时候无脑加缺德舅买的yellow curry还有椰奶，花生芒果和菠萝也随意撒点\
+Apr 27
+
+
+每集the last of us都像是一部微型的红楼梦，拥有过，快乐过，最终都要失去\
+Apr 20
+
+
+在三番的art fair，不断重复类似的对话:“Look, that one is so good", 
+"I know, I love it", "how much", "12k", "haha cool, oh look! that one! it's cheap, just 500"， "shhh don't say it's cheap"\
+Apr 20
+
+去了三番日本城的樱花节游行，然后又去了art fair，充分享受了城市生活的活力。来的时候堵车让我很烦躁，回去的时候依旧堵车，但是开心得把手机伸出车窗外拍照\
+Apr 20
+
+<div class="simple-carousel" data-carousel>
+  <div class="carousel-images">
+    <img src="/image/joy_2.jpeg" class="carousel-image active" alt="Image 3">
+    <img src="/image/joy_3.jpeg" class="carousel-image" alt="Image 4">
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-button prev">&#10094;</button>
+    <div class="carousel-index">1/2</div>
+    <button class="carousel-button next">&#10095;</button>
+  </div>
+</div>
+
+The last of us， Joe死掉那集的幕后花絮，导演说this is not a show of how we survive, 
+it’s a show about why we survive. What are we doing it for? Who are we doing it for\
+Apr 27
+
+听一个播客，“Teenagers are creatures who learn through comparison”\
+May 3
+
+专门去Milpitas 吃了一家在小红书上刷到的河南烩面，还挺不错。回来特意在Google maps上给他们家打了五星。看到有人竟然打了一星，不太理解\
+May 4
+
+最近很喜欢用这个半格相机的滤镜，有时候两边拍的东西还都属于一个系列，有的就完全风马牛不相及\
+May 4
+
+![pic](/image/joy_1.JPEG)
+
+新买了一个中国铁锅，按照小高姐的视频开锅之后忐忑地炒了个菜，真的没有粘锅，开心\
+May 4
+
+我拼乐高的速度实在是太慢了，现在半成品霍格沃兹都已经落灰了，灵机一动放洗碗机里洗了一下，完美\
+May 4
+
+![pic](/image/joy_19.JPG)
+
+
+<style>
+.simple-carousel {
+  position: relative;
+  width: 80%;
+  max-width: 600px;
+  margin: 2em auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+.carousel-images {
+  position: relative;
+}
+
+.carousel-image {
+  display: none;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.5s ease;
+}
+
+.carousel-image.active {
+  display: block;
+}
+
+.carousel-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5em;
+  gap: 1em;
+}
+
+.carousel-button {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  font-size: 18px;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.carousel-index {
+  font-size: 14px;
+  color: #555;
+  min-width: 40px;
+}
+</style>
+
+<script>
+document.querySelectorAll('[data-carousel]').forEach(carousel => {
+  const images = carousel.querySelectorAll('.carousel-image');
+  const indexDisplay = carousel.querySelector('.carousel-index');
+  let index = 0;
+
+  const update = () => {
+    images.forEach((img, i) => {
+      img.classList.toggle('active', i === index);
+    });
+    indexDisplay.textContent = `${index + 1}/${images.length}`;
+  };
+
+  carousel.querySelector('.prev').addEventListener('click', () => {
+    index = (index - 1 + images.length) % images.length;
+    update();
+  });
+
+  carousel.querySelector('.next').addEventListener('click', () => {
+    index = (index + 1) % images.length;
+    update();
+  });
+
+  update(); // Initial display
+});
+</script>
