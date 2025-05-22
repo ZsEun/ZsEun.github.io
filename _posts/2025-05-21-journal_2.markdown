@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "跟亚洲team work"
+date:   2025-05-21
+categories: Life
+---
+
+因为要一直跟亚洲的team work[1]，所以我经常要从下午五六点开始开会，有时甚至要开到九点，极端情况甚至有一次晚上十一点开始开。
+
+我发现如果是平常在办公室面对面相处的同事，即使不刻意进行社交，日复一日也会建立一些私交，交流起来也都算顺畅。
+但是每天在线上跟这些在台湾或者深圳的同事打交道，反而是越讲越想吵架。
+
+刚开始上班的时候会觉得台湾人讲话都嗲嗲的，貌似容易亲近。但是到现在，有过一些不愉快的经历之后，对于初次开始一起work的台湾人，反而是下意识就产生抵触心理，敏感到像刺猬一样先把自己身上的刺竖起来。
+
+深圳那边的team也是不遑多让，最近跟那边一个同事daily sync，他说的每一句话都遵循“可以,嗯...（拖长音），but”的模式，真的是每一句都是如此，毫不夸张。
+而且他but之后提出的理由五花八门，有时候实在没有理由了就感觉在装英语不好，支支吾吾胡讲一通。
+这搞得我很不耐烦，所以只要有他的会我就尽量不去，反正也的确不会有任何进展。
+
+这周一我跟manager[2] 1 on 1的时候也聊过这个话题。我说这些push back让我很疲惫，而且我又下意识不想让别人不开心，所以一旦被push back就会轻易放弃。
+
+他说他刚跟ring合作的时候也是一直被push back。但是跟我不一样的是，他会针锋相对。以至于后来连我们组的director都跟他私聊，让他不要太咄咄逼人。
+
+后来他改变心态，变得更开放。我来这里不是为了跟你吵架的，是为了要把问题解决，或者找到折中处理方案的。核心思想就是对事不对人。
+
+当然印度人嘴上还是甜。年初有一次跟台湾EE开会，最后那边崩溃咆哮。当时两边的manager都在拉架，但是他还是一顿疯狂输出，让场面真的非常难看。本来我跟那个EE还经常沟通，但是自从那次之后我都不敢跟他讲话了，几乎不再ping他。
+但是N说guess what I did after that meeting. I call him back in private the next day, tell him I understand your situation, I know you are under a lot of pressure.
+If we really cannot do this, I will take it. I will get a customer impact and move on. Don't worry.
+
+我的天。
+
+我在想我能把他的这些心态和方法应用在我和傻逼深圳同事的关系上吗。我觉得真的不行，因为这个方法需要对方还处在一定底线之上，而他早就跌穿地心了。贯彻“对事不对人”的原则，他们那边的TPM人还不错，我还不如跟她对接。
+
+这么一想思路都清晰了，果然写日记还是有效果的。
+
+---
+
+[1] 虽然这种中英文夹杂的确让有些人反感，但是这的确是我目前的说话方式，尤其是在讲工作相关的事情时更是如此所以在这里还是保留
+
+[2] 代号N
+
+---
+
+以下是chatgpt英语翻译
+
+Since I have to work with the Asia team a lot, I often end up having meetings starting around 5 or 6 PM, sometimes going all the way until 9, and in extreme cases, even starting at 11 PM.
+
+I’ve noticed that when it comes to coworkers I see in person at the office, even without trying to socialize, we naturally build some rapport over time, and communication tends to go pretty smoothly.
+But with these colleagues from Taiwan or Shenzhen who I interact with only online every day, it actually feels like the more we talk, the more I want to argue.
+
+When I first started, I thought the way Taiwanese people talk sounded soft and friendly, and they seemed approachable. But after a few unpleasant experiences, I now instinctively feel guarded when working with someone new from Taiwan. I get all prickly, like a hedgehog, putting up my defenses right away.
+
+The Shenzhen team isn’t much better. Lately I’ve been having daily syncs with a guy there, and every single sentence he says follows the “okay, hmm...(long pause), but...” pattern. I’m not exaggerating—it’s literally every sentence.
+And the reasons he gives after the “but” are all over the place. Sometimes when he clearly has no solid reason, he just pretends his English is bad and mumbles something vague.
+It’s gotten on my nerves so much that I now avoid any meeting with him unless absolutely necessary—nothing productive ever comes out of them anyway.
+
+I actually brought this up in my 1-on-1 with my manager on Monday. I told him all the pushback I’m getting is draining, and since I naturally try to avoid upsetting people, I tend to give up easily as soon as I’m pushed back on.
+
+He said that when he first started working with Ring, he was also constantly pushed back on. But unlike me, he would push right back, head-on. It got to a point where even our director privately messaged him to say, “Hey, maybe ease up a bit.”
+
+Eventually, he changed his mindset and became more open. “I’m not here to fight with you,” he said. “I’m here to solve the problem or find a compromise. It’s about the issue, not the person.”
+
+Of course, Indian folks are still good with their words. Earlier this year, there was a meeting with a Taiwanese EE that turned into a mess—the guy completely lost it and started yelling. Both managers were trying to calm things down, but my manager just kept firing back, which made the situation even worse.
+Before that, I used to talk to that EE regularly, but after that meeting, I didn’t dare message him again. I basically cut off communication.
+
+But N said, “Guess what I did after that meeting? I called him privately the next day and told him, ‘I understand your situation, I know you’re under a lot of pressure. If we really can’t do this, I’ll take it. I’ll take the customer hit and move on. Don’t worry.’”
+
+Like… damn.
+
+I’ve been wondering if I could use that same mindset and approach to deal with my dumbass coworker from Shenzhen. But honestly, I don’t think it’ll work—because this kind of approach only works if the other person is still somewhere above rock bottom. And he’s already burrowed into the earth’s core.
+If I’m sticking with the “focus on the problem, not the person” principle, then maybe it’s better to just coordinate with the TPM over there—she’s actually decent.
+
+Now that I think about it, everything feels clearer. Writing this journal entry really helped.
+
+说实话我觉得这个英语版本比我的汉语版本要好。
