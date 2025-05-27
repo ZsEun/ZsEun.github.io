@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "学会了讲故事，人类才能进步"
-date:   2025-05-21
+date:   2025-05-22
 categories: Life
 ---
 
