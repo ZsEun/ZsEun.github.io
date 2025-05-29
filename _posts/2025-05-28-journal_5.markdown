@@ -8,46 +8,46 @@ categories: Life
 突发奇想，用chatgpt模仿my little airport的风格写了一首歌词。不过改来改去，里面的内容大概也就10%是真实的吧
 （上周末我们真的去了优胜美地，也的确聊了恐怖片）
 
-那天我们在优胜美地/
-每走五分钟就坐下休息/
-你说这样永远爬不到山顶/
+那天我们在优胜美地\
+每走五分钟就坐下休息\
+你说这样永远爬不到山顶\
 我说风景也不一定要看清
 
-我们聊起恐怖片的标准
-你说最吓人的不是鬼魂
-是那些正常人做对了决定
+我们聊起恐怖片的标准\
+你说最吓人的不是鬼魂\
+是那些正常人做对了决定\
 却照样还是送命
 
-比如《闪灵》真是吓人
-本来有吃有住，又稳定
-结果他疯了
+比如《闪灵》真是吓人\
+本来有吃有住，又稳定\
+结果他疯了\
 拿起斧头砍亲人
 
-我说《死神来了》就一般
-里面的人总在无脑生气
-一个个死掉也没人心酸
+我说《死神来了》就一般\
+里面的人总在无脑生气\
+一个个死掉也没人心酸\
 像是剧本太懒，没什么好看
 
-我们继续往上爬
-风很大，天很蓝
-我笑说我总是停下来
-是为了打乱死神的节拍
-他本来安排我现在摔下山崖
+我们继续往上爬\
+风很大，天很蓝\
+我笑说我总是停下来\
+是为了打乱死神的节拍\
+他本来安排我现在摔下山崖\
 结果我又蹲在石头旁边发呆
 
-你说也许恐惧的本质
-就是你以为自己很理智
-但还是会死在熟悉的位置
+你说也许恐惧的本质\
+就是你以为自己很理智\
+但还是会死在熟悉的位置\
 浴室、电梯，或恋人的臂弯
 
-风太大，我戴上帽子
-你喝水时突然问我怕不怕鬼
-我说怕的是
+风太大，我戴上帽子\
+你喝水时突然问我怕不怕鬼\
+我说怕的是\
 做了对的事，还是逃不过结尾
 
-你说我们今天
-应该是跌下去了吧？
-我说死神太忙
+你说我们今天\
+应该是跌下去了吧？\
+我说死神太忙\
 先去追那些跑太快的人吧
 
 ---
@@ -56,44 +56,44 @@ I asked ChatGPT to write lyrics in the style of my little airport.
 After tweaking it over and over, I think only about 10% of it is actually true.
 (Though we did go to Yosemite last weekend, and we did talk about horror films.)
 
-That day, we were in Yosemite
-We sat down to rest every five minutes
-You said we’d never reach the top like this
+That day, we were in Yosemite\
+We sat down to rest every five minutes\
+You said we’d never reach the top like this\
 I said it is not necessary
 
-We started talking about what makes horror films scary
-You said it’s not the ghosts that frighten you the most
-It’s when people do everything right
+We started talking about what makes horror films scary\
+You said it’s not the ghosts that frighten you the most\
+It’s when people do everything right\
 And still end up dying anyway
 
-Like The Shining
-There was food, shelter, and stability
-Then he went mad
+Like The Shining\
+There was food, shelter, and stability\
+Then he went mad\
 And took an axe to his own family
 
-I said Final Destination was just okay
-Everyone’s always angry for no reason
-They die one by one
+I said Final Destination was just okay\
+Everyone’s always angry for no reason\
+They die one by one\
 Feels like lazy writing, nothing much to see
 
-We kept climbing
-The wind was strong, the sky was blue
-I joked that I kept stopping
-To throw off the rhythm of the Grim Reaper
-He probably planned for me to fall off the cliff right then
+We kept climbing\
+The wind was strong, the sky was blue\
+I joked that I kept stopping\
+To throw off the rhythm of the Grim Reaper\
+He probably planned for me to fall off the cliff right then\
 But I was too busy spacing out next to a rock
 
-You said maybe the essence of fear
-Is thinking you're being perfectly rational
-But still ending up dead in a familiar place—
+You said maybe the essence of fear\
+Is thinking you're being perfectly rational\
+But still ending up dead in a familiar place—\
 Your bathroom, an elevator, or a lover’s embrace
 
-The wind picked up—I put on my hat
-While drinking water, you suddenly asked, “Are you afraid of ghosts?”
-I said what scares me
+The wind picked up—I put on my hat\
+While drinking water, you suddenly asked, “Are you afraid of ghosts?”\
+I said what scares me\
 Is doing everything right and still not escaping the ending
 
-You said, “Maybe today
-we already fell, huh?”
-I said, “Death’s too busy
+You said, “Maybe today\
+we already fell, huh?”\
+I said, “Death’s too busy\
 chasing the ones who run too fast.”
