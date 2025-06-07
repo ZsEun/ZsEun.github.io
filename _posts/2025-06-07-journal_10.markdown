@@ -15,7 +15,8 @@ categories: Life
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113606314170910&bvid=BV1Q1i6YcEn2&cid=27211989491&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-然后这两天我manager为了在跟别的team吵架的时候有足够的data，指挥我做了好多在我看来没有太大意义的measurement和simulation。\
+然后这两天我manager为了在跟别的team吵架的时候有足够的data，指挥我做了好多在我看来没有太大意义的measurement和simulation[1]。
+
 我在做measurmement的时候发现自己脑子里在唱ive的Kitsch,只不过把歌词里反复出现的kitsch自动改成了bitch。
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/kitsch/1677260541"></iframe>
@@ -36,3 +37,4 @@ categories: Life
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=834523296&bvid=BV1Pg4y1Z7rt&cid=1363113589&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+[1]我的天啊，这种中英夹杂读起来真的很做作，但是我平常真的是这么说话的，尤其是跟工作相关。
