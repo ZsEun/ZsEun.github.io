@@ -28,7 +28,7 @@ categories: Life
 ![pic](/image/ppic_1.jpg)
 
 然后是一幅斯普拉遁的海报。最近任天堂在旧金山开了全美第二家店，这张海报是购物赠品。上周喷喷趁着switch2发售也宣布了新游戏，
-<a href="http://localhost:4000/life/2025/06/16/journal_11.html" target="_blank" rel="noopener noreferrer">我顺势开始了复健</a> 
+<a href="https://zseun.github.io/life/2025/06/16/journal_11.html" target="_blank" rel="noopener noreferrer">我顺势开始了复健</a> 
 ，每天快乐涂地！
 
 ![pic](/image/ppic_2.jpg)
@@ -59,8 +59,8 @@ categories: Life
 我还挂了一幅浮世绘在洗手间，《短冥次郎阮小吾》，来自歌川国芳的一个系列
 <a href="https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%97%E6%B0%B4%E6%BB%B8%E4%BC%9D%E8%B1%AA%E5%82%91%E7%99%BE%E5%85%AB%E4%BA%BA%E4%B9%8B%E4%B8%80%E5%80%8B" target="_blank" rel="noopener noreferrer">《通俗水滸伝豪傑百八人之一個》</a>。 
 我最初是在一本
-<a href="http://localhost:4000/culture/2024/01/19/paint.html" target="_blank" rel="noopener noreferrer">讲浮世绘的书</a>
-里看到的这一幅，然后自己找图打印出来的。
+<a href="https://zseun.github.io/culture/2024/01/19/paint.html" target="_blank" rel="noopener noreferrer">讲浮世绘的书</a>
+里看到的这一幅，然后自己在网上找图打印出来的。
 两个猛男在水下打架，感觉放洗手间很合理哈哈。
 
 ![pic](/image/ppic_9.jpg)
