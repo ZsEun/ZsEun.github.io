@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "没必要执着于确定"
+date:   2025-07-04
+categories: Life
+---
+
+最近切实存在的一个问题就是，我怀疑自己有点burn out。
+之前有两个星期，除了白天每天上班之外，晚上还要持续开会，从6点到9点。而且会上跟其他组的交涉本身也让我很紧张。
+过了那两周之后，其实我的任务少了很多，但是每天还是会很焦虑。
+
+今年一月份也发生过类似的情况，当时我直接连休了11天，哪都没去，就在家里休养生息，最终焦虑果然大大缓解了。
+但是现在没有休长假的机会。
+这周末本来是三天小长假，结果我早晨五点醒了就睡不着了，脑子里乱糟糟的，于是就跟chatgpt聊了一下。
+
+- 焦虑不是任务多少决定的，而是你是否觉得“有控制权”。让你焦虑的是“会不会漏事”、“别人会不会不满意”、“我会不会被追问”……这些才是背后的恐惧。
+（焦虑不是敌人，是未被满足的掌控欲）
+
+    - 担心没有cover到所有任务 → 大脑不断扫描 → 引发持续紧张：
+	这一点最容易解决，就是todo list。标出3个最重要的任务，其他只是“bonus”;
+定义“成功”的最低标准：“只要完成 X，就算今天成功”。对模糊任务写下“我可以做到的最小动作”，不是“搞定那个合作问题”，而是“发邮件问对方有没有时间聊”。这些都算是“术”的程度
+
+    - 担心被否定 → 情绪不是由你掌控，而是外部评价决定。而且在我看来，被否定不仅是任务失败，更像是“人格否定”。
+	可以通过记录我这天做了哪三件我自己觉得有价值的事情，这会慢慢把你对自我价值的判断权从外部拉回到自己手里。甚至如果非要得到别人的肯定的话，就直接问manager，而不是靠猜。
+	
+	- 害怕无法回答 → 让你不断预演最坏场景 → 哪怕没发生，也已经消耗你很多精力。比如在跟台湾那边开会，提出需求之后他们经常会问为什么要这么做。
+	如果实在答不上来，可以说“这是个好问题，我需要更多数据/时间去查一下，明天我可以update你。” 你不是“没准备”，而是“知道需要确认”，这是一种能力，不是短板。
+
+后面这两点都属于“道”的层面了。从“我表现不好 → 我不够好”这个认知跳出来，回到“我值得被肯定 → 但还在学习”这个状态，是你从“术”迈向“道”的关键一步。
+
+控制感来自三个维度：
+
+- 认知控制： 其实上面这些都是我害怕的一些例子，未来在生活里还要时刻注意，识别出自己到底是在怕什么。比如每天早晨看到邮箱里有几十封邮件，像是清晨的第一波冲击，总是让我的压力值一下子就上来了：
+这是一种“入场焦虑”，说明你的大脑已经把工作入口（邮箱）和“要应付的未知负担”联系起来了。
+简单的解决方法就是善用filter，把不重要的消息过滤掉。
+
+- 行动控制（我能做点什么）
+
+    - 焦虑三问卡片（可以贴在显示器边）:我现在担心的最坏结果是什么？这个结果真有那么容易发生吗？有证据吗？我现在能做一件小事去应对它吗？哪怕只是写一封 follow-up？
+
+- 情绪控制（我可以接纳当下的不确定）
+
+    - 每天总结：亡羊补牢式总结：我完成了什么！我没有完成什么，但是我亡羊补牢了什么
+
+心理学上有个现象叫“不确定性厌恶（uncertainty aversion）”。简单说就是：人们宁愿面对确定的坏结果，也不愿意面对可能是好也可能是坏的不确定结果。
+但是其实没必要那么执着于确定。
+
+---
+
+Lately I’ve been feeling… off. Like I might be a little burnt out.
+
+A few weeks ago, I had this intense stretch where, on top of working all day, I was also stuck in meetings from 6 to 9 every evening.
+A lot of those meetings involved tense back-and-forth with other teams, which made me super anxious.
+Even though that period is over and my workload has actually lightened up, the anxiety hasn’t really gone away.
+
+This same thing happened back in January. I ended up taking 11 days off in a row, didn’t go anywhere, just stayed home and recharged.
+And it really helped — the anxiety faded.
+But right now, there’s no chance of taking that kind of long break.
+
+This weekend was supposed to be a nice little three-day reset…
+Instead, I woke up at 5 a.m. and couldn’t fall back asleep — my mind was a complete mess.
+So I opened up ChatGPT and started talking it out.
+
+What actually causes anxiety?
+One thing that really stuck with me:
+Anxiety isn’t about how much you have to do. It’s about how much control you feel you have.
+
+It’s not just the tasks — it’s the fear of missing something, of disappointing someone, of being caught off guard.
+Anxiety, in a way, is just a signal that your sense of control is out of balance.
+
+Here are a few patterns I recognized in myself:
+
+1. Fear of missing something important → constant scanning → constant tension
+This is the easiest one to manage: use a to-do list.
+Pick 3 tasks that actually matter today — the rest is bonus.
+And for vague items, break them down to the smallest action you can take.
+Not “solve the issue with team X,” but “send an email asking if they’re free to talk.”
+This is the tactical stuff — what you might call technique.
+
+2. Fear of being judged → letting external validation control your emotions
+For me, being “rejected” doesn’t just feel like task failure — it feels like personal failure.
+A good way to shift that mindset: at the end of each week, write down 3 things I did that I personally find valuable.
+It helps pull the power of validation back into my own hands.
+And if I do need outside feedback — just ask my manager directly instead of trying to guess what they’re thinking.
+
+3. Fear of not having answers → endless worst-case rehearsals
+This happens a lot in meetings, especially with teams in Taiwan.
+They’ll often ask follow-up questions like “Why are we doing this?” — and I spiral.
+But really, if I don’t have the answer, I can just say:
+“That’s a great question. I’ll need more data, but I can follow up tomorrow.”
+That’s not a failure — that’s being aware of what still needs clarity. That’s a skill, not a flaw.
+
+These last two are more than just tactics — they’re about mindset.
+The real shift happens when I can go from
+“I didn’t do well → I’m not good enough”
+to
+“I’m worthy → I’m still learning.”
+That’s the step from technique to philosophy.
+
+So what does control actually look like?
+ChatGPT offered a framework I liked — control has three dimensions:
+
+1. Cognitive control – I understand what’s happening
+This is about identifying what I’m actually afraid of.
+For example, the panic I feel every morning when I open my inbox and see 10+ unread emails —
+That’s not just about email. It’s entry anxiety — my brain has linked my inbox to unknown chaos waiting to hit me.
+A practical fix: set filters, clean out the clutter.
+
+2. Action control – I can take a step
+This is where the “Anxiety Card” comes in — maybe I’ll stick one next to my monitor: What’s the worst outcome I’m afraid of? 
+How likely is that really? Is there any evidence?
+Is there one small thing I can do right now to respond — even just sending a follow-up email?
+
+3. Emotional control – I can sit with uncertainty
+End each day with a quick “patchwork” reflection: What did I get done?
+What didn’t I finish — but still made progress on, even in a small way?
+
+There’s actually a psychological term for this: uncertainty aversion.
+People would rather face a guaranteed bad outcome than an uncertain one — even if the uncertain one might be better.
+That hits a little too close to home.
+
+So maybe what I’m really learning is: control doesn’t mean certainty.
+It means knowing how to stay grounded — even when the outcome isn’t clear yet.
+
+That’s something I’ll keep practicing.
+
+
+
+
+
