@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "负面情绪总之萦绕心间"
+title:  "负面情绪总是萦绕心间"
 date:   2025-07-13
 categories: Life
 ---
