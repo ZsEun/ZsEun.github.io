@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "WWII"
+title:  "纽约客报道二战"
 date:   2025-07-19
 categories: Life
 ---
+
+之前偶然发现一系列书，以十年为单位收集不同时代在《纽约客》上刊登的文章，从1940年代出到1960年代。于是我就买了1940年代这本，想看一下当年美国人是如何报道二战的。
+
+读了前言才知道，《纽约客》创刊自1925年，但是直到二战之前，杂志都没有涉足严肃新闻的报道。但是当战争来临，记者们被派驻到世界各地的前线，从此改变了杂志的基调。
+
+这本书里收录了9篇关于战争的报道，不过很遗憾，这些文章关注的都是欧洲和太平洋战争，里面并没有中国大陆对日战争的文章。下面是一些摘抄，中文是chatgpt翻译的，我觉得有点怪怪的，远没有英文原文要好。
 
 <h2>Paris Postscript: On the fall of France</h2>
 
@@ -246,3 +252,87 @@ Mar 17, 1945
 
 ![pic](/image/jpg_3.jpg)
 
+As it happened, the Marine division I went with to Iwo-the Fifth— was a new one, activated about a year ago and now engaged in its first combat mission. Most of its officers and many of its enlisted men, how-ever, were veterans of earlier campaigns with other units. One of its enlisted men, Gunnery Sergeant John Basilone, had won the Congressional Medal of Honor at Guadalcanal. He was killed by mortar fire on Iwo Jima shortly after the division hit the beaches. Officers aboard our trans-port, especially those with large responsibilities, such as getting artillery ashore or conditioning amtracks and their crews for the first assault landing, stood on deck for two or three days before D Day, succumbing to bleak despair whenever the ocean swells ran high or the wind changed direction. "My God!" said Lieutenant Colonel Rose, a very young man from Toledo. "Imagine if that wind is blowing from the south when we hit! "T'll tell you a couple of things that can happen to my artillery," said Lieutenant Colonel Duryea, not much older, "if it's rough like this at Iwo." And he did. It was gruesome.
+
+我随行前往硫磺岛的这支海军陆战队师——第五师——是一支新部队，大约在一年前才成立，如今执行的是他们的第一次作战任务。
+不过，它的许多军官和不少士兵曾在其他部队中参加过早期的战役。
+其中一名士兵，军士长约翰·巴西隆，在瓜达尔卡纳尔获得了国会荣誉勋章。
+他在第五师登上海滩后不久，被迫击炮击中阵亡。
+在我们的运输舰上，尤其是那些负有重大责任的军官，比如负责将火炮送上岸，或训练两栖战车及其乘员执行首次攻击登陆的，
+在D日前的两三天里，一直站在甲板上。
+每当海浪高涨或风向转变，他们便陷入沉重的沮丧。
+“我的天啊！”
+来自托莱多的年轻中校罗斯说，
+“想象一下我们登陆时如果刮南风！”
+“如果到硫磺岛时还是这种浪，我的火炮可能会出几种问题。”
+中校杜里亚说，他年纪也不大。
+然后他讲了出来，听起来非常骇人。
+
+D Day was Monday, February 19th, and H Hour was 0900. On D-minus-one, the regimental surgeon reported a hundred and twenty-five cases of diarrhea among the men and officers aboard. This had come from something they ate, but that evening the Navy cooks did better and served everyone a turkey dinner with ice cream. At the last meal, breakfast at o5o the morning of the nineteenth, there was steak and eggs.
+Everyone had dressed in his green combat blouse and trousers and had strapped on his pistol belt, with a long knife, ammunition, a bandage roll, and one or two canteens attached, and had checked his carbine.
+After breakfast, everyone put on his helmet, which had a camouflage cover simulating sand, and went out on deck and over to the ladder nets.
+The sun was just coming up, so Iwo Jima was visible from our line of debarkation, which was several miles out at sea. There the larger transports halted, to keep beyond the range of shore batteries, and put off their cargoes of Marines into small boats. On Suribachi, the volcano at the south end of the island, we could see bursts of fire and smoke from our naval shelling, which continued till H Hour. Some of the men stared at the island. Others remarked that the wind was running in our favor, from the northwest, and that the sea was calmer than it had been, though still difficult. Many could think of nothing but the immediate necessity of climbing the slick, flaccid web of rope down the ship's side without looking silly or getting killed. Even young Marines have been killed on these descents when the sea has been rough, and for those over thirty-five the endless sequence of nets, Jacob's ladders, bouncing gangways, and lurching boats is a hazard and nightmare which can occupy their
+minds to the exclusion of all other dangers. Admirals and generals can look ridiculous in these circumstances. They are well aware of it, and their tempers during amphibious operations are correspondingly short.
+
+D日是2月19日星期一，H时为上午九点。
+在D减一天这天，团部军医报告说船上的官兵中有一百二十五起腹泻病例。
+这是吃了某样东西引起的，不过当天晚上海军的炊事员表现得好多了，为所有人准备了一顿火鸡晚餐加冰淇淋。
+最后一顿饭，是十九日清晨五点的早餐：牛排和鸡蛋。
+每个人都穿上了绿色战斗服和长裤，
+系好手枪带，腰带上挂着长刀、弹药、止血绷带卷，以及一两个水壶，
+还检查了自己的卡宾枪。
+早餐后，所有人戴上了头盔，头盔上套有伪装罩，模拟沙地的颜色，
+然后上了甲板，走向舷边的绳梯网。
+太阳刚刚升起，从我们出发线所在的海面上，可以看到硫磺岛的轮廓，
+我们距离海岸还有几英里。
+大型运输舰在此停下，以避免进入岸炮射程，
+将满载海军陆战队员的舢板一艘艘放入海中。
+在岛南端的火山苏里巴奇山上，我们能看见海军炮击产生的火光与烟雾，
+这种炮击一直持续到H时。
+有些士兵凝视着岛屿；
+也有人说，风向对我们有利，来自西北，
+海面比前几日平静，虽然仍然难以应对。
+许多人脑子里只剩下一件事：
+如何在不出洋相、也不送命的情况下，爬下那张湿滑、松软的舷边绳网。
+即使是年轻的陆战队员，在风浪大的时候，也有人在这段攀爬中丧命；
+而对三十五岁以上的人来说，
+一连串的绳网、舷梯、跳板和颠簸不已的小艇，
+构成的是一种危险，也是一场噩梦，
+足以暂时抹去他们对其他一切危险的意识。
+在这种时候，海军上将与陆军将军也可能显得狼狈不堪，
+他们对此心知肚明，
+也因此，在两栖作战期间，情绪常常变得格外暴躁。
+
+Wornham's Higgins boat, a rectangular little launch with a hinged landing ramp in the bow, pulled up on the starboard quarter of our ship, and those of us who were going ashore with the Colonel climbed down
+a ladder and jumped in. It was exactly ioo, or two hours after the first landings, and this was the fourteenth wave. I should say that we were the fourteenth wave. As far as I could see, no other boat was moving shoreward at that moment. As we cast off, Galeagon came to the ship's rail and yelled something at us through a megaphone. Wornham, a short, stocky career Marine of about forty, smiling and convivial on our voyage north but now very taut and serious, leaned precariously over the stern of the boat, clutching at the rail, and cupped a hand to one ear. "Red One now under heavy mortar fire!" shouted the messenger. The Fifth Division's share of beaches was Green Beach and Red Beaches One and Two.
+To the north, the Fourth Division had landed on Yellow One and Two and Blue One and Two. We were fifty feet from the control ship when Galeagon yelled another message. "Red Two under mortar fire," he said, the sound of his voice seeming to bounce across the waves. "Heavy mortar fire on both Red beaches." The others in the boat looked with expressionless faces at Wornham, who smiled wryly. "Head for a point about a hundred feet to the right of the line between Red One and Two," he told the coxswain. Then he turned to the rest of us and said, "All right, be ready to bail out of here goddam fast when we touch that beach." We all crouched, whether sitting or standing, as the boat moved in.
+Now and then we wiped spray off our eyes and noses, and we paid no attention to a battleship and a cruiser through whose shadows we passed.
+I had some trouble crouching, because of my length and because the shelf on which I sat was only a foot or so beneath the stern rail. There was no special need, however, for crouching now, while we were still on water. It was the beaches the Japs were mortaring. We crouched in a sort of instinctive, shrinking alarm at what we were about to meet.
+
+沃恩汉姆的希金斯登陆艇靠上了我们船的右后舷，
+那是一种小巧的长方形登陆艇，艇首有一扇可下放的舱门。
+我们这批要和上校一起上岸的人顺着舷梯爬下，跳进艇里。
+当时正好是上午十点，距离第一波登陆已经过去两个小时，
+这是第十四波登陆——应该说，我们是第十四波。
+放眼望去，似乎没有其他船只正在向岸边前进。
+就在我们脱离母舰时，加利根跑到船舷，用扩音器对我们喊话。
+沃恩汉姆——一个四十岁左右的陆战队军官，身材矮壮，
+在我们北上途中还是一副笑容可掬的样子，现在却绷得紧紧的，神情严肃——
+他不稳地探身船尾，抓住舷栏，一只手捂在耳边。
+“红一号滩正遭受猛烈迫击炮攻击！”加利根大声喊道。
+第五师负责的滩头包括绿滩以及红一号和红二号滩。
+往北，第四师在黄一、黄二和蓝一、蓝二滩登陆。
+我们刚离开指挥舰五十英尺远，加利根又喊出第二条消息：
+“红二号滩正遭迫击炮攻击，”他的声音仿佛在波浪间弹跳回荡，
+“两个红滩都遭到猛烈炮击。”
+艇上的其他人面无表情地看着沃恩汉姆，
+他露出一个苦笑，说道：“向红一和红二之间那条线右侧一百英尺的地方靠。”
+接着他转头对我们说：
+“好了，等我们一碰到滩头，大家就他妈的准备迅速跳船。”
+艇继续向前开，我们不论坐着还是站着，都下意识地蹲低了身体。
+时不时，我们用手擦去眼睛和鼻子上的水花，
+并没有在意我们穿越阴影的那艘战列舰和巡洋舰。
+我因为个子高、而且所坐的船尾板距舷栏不到一尺，蹲得颇为吃力。
+不过在这时，蹲下其实还没什么必要——我们仍在海上。
+敌人的迫击炮是打向滩头的。
+我们此刻的蹲姿，更像是一种本能的收缩，一种对即将面对之事的直觉性戒备。

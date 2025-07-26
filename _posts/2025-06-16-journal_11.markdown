@@ -30,6 +30,14 @@ categories: Life
 
 ![splatoon](/image/splatoon.jpg)
 
+7/26更新：
+
+B站上的喷喷视频一般都是浅尝辄止，但是今天看到
+<a href="https://www.bilibili.com/video/BV11T4y1r7ix/?share_source=copy_web&vd_source=dadad115af05f07840832fa5034da512" target="_blank" rel="noopener noreferrer">这个</a>
+，从键鼠、手柄遥感、陀螺仪的硬件底层逻辑解释了喷喷与传统射击游戏的区别，推荐！
+
+
+
 
 Last year, I had a clear goal for climbing: to send ten V5s before the year ended.
 My mindset was in a good place — I mostly climbed V3s and V4s, and only tried V5s when I was feeling good or came across one that looked doable.
