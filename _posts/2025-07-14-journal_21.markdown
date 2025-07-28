@@ -229,7 +229,6 @@ Having been in London's shelters, I can see readily why most people-at least tho
 The train roared in. Just as I was caught in the crowd that sucked me aboard, quite in the New York fashion, I looked back at this child. The noise of the milling crowd must have penetrated the planes of sleep; he turned abruptly, huddling himself and his blanket against the glazed brick wall behind his bunk.
 
 在伦敦待过几次防空洞之后，我完全能理解为什么大多数人——至少是那些还有别的选择的人——宁愿冒着被炸的风险，也不愿意进去。
-
 防空洞主要分为三类：
 地面防空洞，看起来像放大版的尼森小屋；
 浅层防空洞，大小和深度各异，仅能提供有限的安全；
@@ -251,22 +250,6 @@ The train roared in. Just as I was caught in the crowd that sucked me aboard, qu
 Mar 17, 1945
 
 ![pic](/image/jpg_3.jpg)
-
-As it happened, the Marine division I went with to Iwo-the Fifth— was a new one, activated about a year ago and now engaged in its first combat mission. Most of its officers and many of its enlisted men, how-ever, were veterans of earlier campaigns with other units. One of its enlisted men, Gunnery Sergeant John Basilone, had won the Congressional Medal of Honor at Guadalcanal. He was killed by mortar fire on Iwo Jima shortly after the division hit the beaches. Officers aboard our trans-port, especially those with large responsibilities, such as getting artillery ashore or conditioning amtracks and their crews for the first assault landing, stood on deck for two or three days before D Day, succumbing to bleak despair whenever the ocean swells ran high or the wind changed direction. "My God!" said Lieutenant Colonel Rose, a very young man from Toledo. "Imagine if that wind is blowing from the south when we hit! "T'll tell you a couple of things that can happen to my artillery," said Lieutenant Colonel Duryea, not much older, "if it's rough like this at Iwo." And he did. It was gruesome.
-
-我随行前往硫磺岛的这支海军陆战队师——第五师——是一支新部队，大约在一年前才成立，如今执行的是他们的第一次作战任务。
-不过，它的许多军官和不少士兵曾在其他部队中参加过早期的战役。
-其中一名士兵，军士长约翰·巴西隆，在瓜达尔卡纳尔获得了国会荣誉勋章。
-他在第五师登上海滩后不久，被迫击炮击中阵亡。
-在我们的运输舰上，尤其是那些负有重大责任的军官，比如负责将火炮送上岸，或训练两栖战车及其乘员执行首次攻击登陆的，
-在D日前的两三天里，一直站在甲板上。
-每当海浪高涨或风向转变，他们便陷入沉重的沮丧。
-“我的天啊！”
-来自托莱多的年轻中校罗斯说，
-“想象一下我们登陆时如果刮南风！”
-“如果到硫磺岛时还是这种浪，我的火炮可能会出几种问题。”
-中校杜里亚说，他年纪也不大。
-然后他讲了出来，听起来非常骇人。
 
 D Day was Monday, February 19th, and H Hour was 0900. On D-minus-one, the regimental surgeon reported a hundred and twenty-five cases of diarrhea among the men and officers aboard. This had come from something they ate, but that evening the Navy cooks did better and served everyone a turkey dinner with ice cream. At the last meal, breakfast at o5o the morning of the nineteenth, there was steak and eggs.
 Everyone had dressed in his green combat blouse and trousers and had strapped on his pistol belt, with a long knife, ammunition, a bandage roll, and one or two canteens attached, and had checked his carbine.

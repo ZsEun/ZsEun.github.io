@@ -3,6 +3,7 @@ layout: post
 title:  "《龙猫》：成年人不奔跑"
 date:   2025-07-23
 categories: Life
+tags: [movie]
 ---
 
 上周末去影院看了《龙猫》。
@@ -36,7 +37,7 @@ categories: Life
 “只有小孩能看见龙猫，只有大人可以成为龙猫”。
 讲得真好啊。而我现在介乎于小孩和大人之间，所以才会生出一方面怀旧，另一方面又充满希望的感受吧。
 
-![pic](/image/jpg_5.jpeg)
+![pic](/image/jpg_4.jpg)
 
 Last weekend, I went to the theater to watch My Neighbor Totoro.
 
