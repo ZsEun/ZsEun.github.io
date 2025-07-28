@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "纽约客报道二战"
+title:  "《纽约客》报道二战"
 date:   2025-07-19
 categories: Life
 ---
