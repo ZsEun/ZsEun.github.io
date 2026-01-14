@@ -24,10 +24,19 @@ Feb 26, 2025
 
 ![pic](/image/jpg_1.jpg)
 
+![pic](/image/jpeg_1.jpeg)
+
+<p style="text-align:center;font-size:0.9em;color:#666;">
+在优胜美地看到有人bouldering
+</p>
+
 <video width="100%" controls>
   <source src="https://github.com/ZsEun/ZsEun.github.io/raw/refs/heads/main/image/IMG_0654.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-upload video to githun first to get this src URL
+upload video to github first to get this src URL
 
+引用：
+
+>沟通是多么困难的事啊！或许是因为任何一门语言本质上就是一大堆不精确的类比吧... @王兴 2009-01-23
 ---
