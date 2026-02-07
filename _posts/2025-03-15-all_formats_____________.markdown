@@ -40,3 +40,22 @@ upload video to github first to get this src URL
 
 >沟通是多么困难的事啊！或许是因为任何一门语言本质上就是一大堆不精确的类比吧... @王兴 2009-01-23
 ---
+
+
+
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for the first column goes here -->
+	
+	<p>2022年8月</p>
+	
+	<p>优胜美地国家公园</p>
+
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for the second column goes here -->
+    <img src="/image/travel_8.jpg" alt="Alt text" style="max-width: 100%; height: auto;">
+	
+  </div>
+</div>
