@@ -24,29 +24,3 @@ categories: Life
 使用这种技术，两个以上的信号或数据流可以同时在一条通信线路上传输，其表现为同一通信信道的子信道。但在物理上来看，信号还是轮流占用物理通道的。
 时间域被分成周期循环的一些小段，每段时间长度是固定的，每个时段用来传输一个子信道。例如子信道1的采样，可能是字节或者是数据块，使用时间段1，子信道2使用时间段2，等等。
 一个TDM的帧包含了一个子信道的一个时间段，当最后一个子信道传输完毕，这样的过程将会再重复来传输新的帧，也就是下个信号片段。
-
----
-
-I’ve honestly lost count of how many blog posts I’ve written about playing Splatoon.
-As everyone knows, playing games all the time isn’t exactly great for your health — and it’s often met with societal disapproval.
-But recently, an innovative time-division multiplexing approach has been introduced into my gaming routine, 
-achieving a dual state of physical and mental relaxation for the participant. (yes, straight from the language of academic papers) 
-
-In simpler terms: Splatoon requires an internet connection, but Nintendo’s servers drop out every now and then — 
-and once you disconnect, you have to wait ten minutes before you can rejoin.
-So I’ve turned this into a feature, not a bug: using those ten minutes to read a few pages, 
-do some light exercise, or get a bit of housework done. Then I hop back into the game.
-
-Even if the connection holds, I’ll still play three matches (about 15 minutes or less), then take a ten-minute break.
-
-Maybe it’s all the phone scrolling that’s wrecked my attention span, but these short intervals are perfect for reading — 
-I can actually get through a few pages without my brain wandering, and those pages do add up over time.
-
-And even during the game, there’s usually a one-minute wait while matchmaking between rounds. 
-I use that time to stand up, stretch, or do a few squats.
-(As I mentioned in
-<a href="https://zseun.github.io/life/2025/06/17/journal_12.html" target="_blank" rel="noopener noreferrer">this post</a>,
-micro-workouts can actually improve longevity.)
-
-If I were a medical PhD student, with an idea this groundbreaking plus a bit of experimental data, 
-I could probably get it into at least a conference paper. 😊
